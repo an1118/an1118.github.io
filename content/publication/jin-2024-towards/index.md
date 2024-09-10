@@ -7,6 +7,7 @@ authors:
 - Xuezhe Ma
 date: '2024-07-12'
 publication_types:
-- article-journal
-publication: '*arXiv preprint arXiv:2407.08978*'
+- article
+publication: '*Preprint*'
+url_pdf: 'https://arxiv.org/pdf/2407.08978'
 ---
