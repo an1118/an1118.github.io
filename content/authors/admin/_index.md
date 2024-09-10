@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 安丽 Li An
+title: Li An
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -63,8 +63,8 @@ education:
     #   url: 'https://example.com'
   - area: MSci Applied Data Science
     institution: University of Southern California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
     # summary: |
     #   GPA: 3.8/4.0
 
