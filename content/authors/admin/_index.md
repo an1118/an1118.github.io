@@ -10,8 +10,8 @@ first_name: Li
 last_name: An
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -183,4 +183,4 @@ education:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Li An (安丽). I am an incoming PhD student in computer science at the University of California, Santa Barbara, advised by [Prof. Shiyu Chang](https://code-terminator.github.io/).
