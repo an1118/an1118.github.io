@@ -24,7 +24,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UCSB
+  - name: UC Santa Barbara
     url: https://www.cs.ucsb.edu/
 
 # Social network links
@@ -48,6 +48,8 @@ profiles:
 
 interests:
   - Natural language processing
+  - LLM robustness, security
+  - LLM watermarking
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -183,4 +185,4 @@ education:
 
 ## About Me
 
-Hi! My name is Li An (安丽). I am an incoming PhD student in computer science at the University of California, Santa Barbara, advised by [Prof. Shiyu Chang](https://code-terminator.github.io/).
+Hi! My name is Li An (安丽). I am a second-year PhD student in computer science at the University of California, Santa Barbara, advised by [Prof. Shiyu Chang](https://code-terminator.github.io/).
